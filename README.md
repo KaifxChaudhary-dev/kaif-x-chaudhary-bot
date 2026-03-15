@@ -21,3 +21,4 @@ npm install
 
 # Start the bot
 node Erndex.js
+new
