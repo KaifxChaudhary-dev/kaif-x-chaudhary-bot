@@ -1,0 +1,34 @@
+{
+  "name": "Kaif x Chaudhary Bot",
+  "description": "WhatsApp Bot with Auto Forward & MongoDB Session",
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "kaif",
+    "chaudhary",
+    "whatsapp-bot",
+    "mongodb"
+  ],
+  "repository": "https://github.com/KaifxChaudhary-dev/kaif-x-chaudhary-bot",
+  "logo": "https://i.ibb.co/d6bLQ7y/whatsapp-logo.png",
+  "success_url": "/",
+  "stack": "heroku-22",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Unique session ID for your Kaif x Chaudhary Bot",
+      "required": true
+    },
+
+    "MONGODB_URL": {
+      "description": "MongoDB database connection URL",
+      "required": true
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
