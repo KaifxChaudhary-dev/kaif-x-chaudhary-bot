@@ -2,6 +2,12 @@
 
 Welcome to the official repository of **Kaif x Chaudhary Bot**. A powerful, high-speed WhatsApp automation tool designed for seamless message management.
 
+## 🚀 One-Click Deploy
+
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/KaifxChaudhary-dev/kaif-x-chaudhary-bot">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40">
+  </a>
 ---
 
 ## 🌟 Key Features
